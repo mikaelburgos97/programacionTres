@@ -3,7 +3,8 @@
 
 # Link para PDF de cuestionario: 
 -- https://itlaedudo-my.sharepoint.com/:b:/g/personal/20209410_itla_edu_do/EepZ3rSOcw1Nqfr9ZZZhxjEBEszgj1nyi1MDzasHF3L12Q?e=MctAIf)
-Esta es una aplicación básica para gestionar tareas que implementa operaciones CRUD (Crear, Leer, Actualizar, Eliminar).
+
+# Esta es una aplicación básica para gestionar tareas que implementa operaciones CRUD (Crear, Leer, Actualizar, Eliminar).
 
 ## Tecnologías utilizadas
 
