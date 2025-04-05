@@ -1,5 +1,4 @@
-// Instrucciones de configuración y ejecución para README.md
-/*
+
 # Aplicación CRUD Simple con React y SQLite
 
 Esta es una aplicación básica para gestionar tareas que implementa operaciones CRUD (Crear, Leer, Actualizar, Eliminar).
